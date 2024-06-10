@@ -1,3 +1,13 @@
-Get started by customizing your environment (defined in the .idx/dev.nix file) with the tools and IDE extensions you'll need for your project!
+Installing Java on IDX Google:
 
-Learn more at https://developers.google.com/idx/guides/customize-idx-env
+You can install the default JDK available in the package repository or specify a particular version.
+
+To install the default JDK:
+
+Use default-jdk in dev.nix
+To install a specific version of the JDK (e.g., OpenJDK 11):
+
+After the installation is complete, verify it by checking the Java version.
+
+java -version
+You should see output indicating the installed Java version, such as:
