@@ -17,6 +17,8 @@ public class input1 {
         System.out.println("Age: " + age);
         System.out.println("Profession: " + profession);
         System.out.println("Salary: " + salary);
+
+        get.close();
   
     }
 }

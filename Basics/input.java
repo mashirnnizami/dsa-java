@@ -7,6 +7,7 @@ class Input {
         System.out.println("Enter username: ");
         String username = myobj.nextLine();
         System.out.println("Username is: " + username);
+
+        myobj.close();
     }
-    
 }
