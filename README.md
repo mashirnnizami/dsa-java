@@ -10,4 +10,4 @@ To install a specific version of the JDK (e.g., OpenJDK 11):
 After the installation is complete, verify it by checking the Java version.
 
 java -version
-You should see output indicating the installed Java version, such as:
+You should see output indicating the installed Java versioncoom
